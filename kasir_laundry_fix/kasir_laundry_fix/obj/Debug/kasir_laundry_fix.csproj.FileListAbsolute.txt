@@ -1,0 +1,10 @@
+F:\kuliah\Semester 3\Pem lanjut\kasir_laundry_fix\kasir_laundry_fix\bin\Debug\kasir_laundry_fix.exe.config
+F:\kuliah\Semester 3\Pem lanjut\kasir_laundry_fix\kasir_laundry_fix\bin\Debug\kasir_laundry_fix.exe
+F:\kuliah\Semester 3\Pem lanjut\kasir_laundry_fix\kasir_laundry_fix\bin\Debug\kasir_laundry_fix.pdb
+F:\kuliah\Semester 3\Pem lanjut\kasir_laundry_fix\kasir_laundry_fix\bin\Debug\MySql.Data.dll
+F:\kuliah\Semester 3\Pem lanjut\kasir_laundry_fix\kasir_laundry_fix\obj\Debug\kasir_laundry_fix.csprojResolveAssemblyReference.cache
+F:\kuliah\Semester 3\Pem lanjut\kasir_laundry_fix\kasir_laundry_fix\obj\Debug\kasir_laundry_fix.Form1.resources
+F:\kuliah\Semester 3\Pem lanjut\kasir_laundry_fix\kasir_laundry_fix\obj\Debug\kasir_laundry_fix.Properties.Resources.resources
+F:\kuliah\Semester 3\Pem lanjut\kasir_laundry_fix\kasir_laundry_fix\obj\Debug\kasir_laundry_fix.csproj.GenerateResource.Cache
+F:\kuliah\Semester 3\Pem lanjut\kasir_laundry_fix\kasir_laundry_fix\obj\Debug\kasir_laundry_fix.exe
+F:\kuliah\Semester 3\Pem lanjut\kasir_laundry_fix\kasir_laundry_fix\obj\Debug\kasir_laundry_fix.pdb
